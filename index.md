@@ -1,6 +1,6 @@
 # Mr Jed's Pages Repository
 
-## March Break Madness 
+## March Break
 
 ### Blender Brushes
 
