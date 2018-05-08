@@ -1,7 +1,7 @@
 # Mr Jed's Pages Repository
 
 ## Mulitplayer Server
-[Multiplayer Server Godot Tutorial](../blob/master/multiplayer.md)
+[Multiplayer Server Godot Tutorial](../multiplayer)
 
 ## Blender Brushes
 
