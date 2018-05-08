@@ -1,5 +1,8 @@
 # Mr Jed's Pages Repository
 
+## Mulitplayer Server
+[Multiplayer Server Godot Tutorial](../multiplayer.md)
+
 ## Blender Brushes
 
 I found a few free blender brushes! Have acess to them!
